@@ -1,4 +1,4 @@
-FROM artjoker/7.4:php-clean
+FROM adminko/php:7.4
 
 RUN composer global require laravel/installer
 
